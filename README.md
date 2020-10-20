@@ -1,2 +1,10 @@
-# youtube_list
-youtube
+# Youtube search
+
+unofficial youtube search List
+
+## Install
+
+```bash
+pip3 install yt_search
+
+```
