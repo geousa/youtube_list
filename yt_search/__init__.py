@@ -1,10 +1,10 @@
 import bs4
 import re
 import json
-from youtube_searcher.session import session
+from yt_search.session import session
 
 
-def search_youtube(query, location_code="ID",
+def search_yt(query, location_code="ID",
                    user_agent='Mozilla/5.0 (X11; Linux x86_64) '
                               'AppleWebKit/537.36 (KHTML, like Gecko) '
                               'Chrome/57.0.2987.110 '
